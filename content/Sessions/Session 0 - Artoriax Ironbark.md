@@ -10,8 +10,6 @@ Stromguard Mercenaries
 
 # Things Party Should Know
 
-Testtestetsssssssss
-
 # NPCs That Might Show Up
 
 Lionus-
